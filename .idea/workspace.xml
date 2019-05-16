@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b593cda4-740d-4a28-9114-c3a96a102fc8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bstest/css/custom.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/img/macbook.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/img/mockup0.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/img/mockup1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/img/mockup2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/img/mockup3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/img/mockup4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/img/mockup5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/img/mockup6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/img/phd_shin.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bstest/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/main/templates/main/home.html" afterPath="$PROJECT_DIR$/main/templates/main/home.html" />
-      <change beforePath="$PROJECT_DIR$/shop.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/work19.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/work19_wk10 메인화면 작성.zip" afterPath="" />
-    </list>
+    <list default="true" id="b593cda4-740d-4a28-9114-c3a96a102fc8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
